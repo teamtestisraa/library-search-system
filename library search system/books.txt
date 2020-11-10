@@ -1,0 +1,9 @@
+the three little pigs|Jon Scieszka|1|childrens|1989
+the tale of peter rabbit|Beatrix Potter|2|childrens|1902
+the lion and the mouse|Aesop|3|childrens|1867
+little red riding hood|Brothers Grimm|4|childrens|1940
+the cactus|O. Henry|5|fiction|1967
+the story of an hour|Kate Chopin|6|fiction|1894
+||||
+cousin tribulation's story|author|19|fiction|1960
+the celebrated jumping frog of calaveras county|Mark Twain|8|humour|1865
